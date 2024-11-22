@@ -1,0 +1,2 @@
+C:\Users\vecseizs\source\repos\24_11_22_Orai_Munka\obj\Debug\24_11_22_Orai_Munka.csproj.AssemblyReference.cache
+C:\Users\vecseizs\source\repos\24_11_22_Orai_Munka\obj\Debug\24_11_22_Orai_Munka.csproj.CoreCompileInputs.cache
